@@ -7,7 +7,7 @@ const Header = () => {
     return(
         <div className="ui secondary pointing menu">
             <Link to="/" className="item">
-                Ticket Master
+                <h1> QFlow Ticket Master </h1>
             </Link>
             <div className="right menu">
                 <Link to="/" className="item">
