@@ -66,24 +66,6 @@
       <change afterPath="$PROJECT_DIR$/../ppmtool-client/src/reducers/errorReducer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ppmtool-client/src/reducers/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ppmtool-client/src/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client id" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/apis/tickets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tickets/TicketCreate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tickets/TicketDelete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tickets/TicketEdit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tickets/TicketForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tickets/TicketList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tickets/TicketShow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/history.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/authReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/ticketReducer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../streamapi/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../streamapi/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../streamapi/.idea/modules.xml" afterDir="false" />
@@ -107,15 +89,6 @@
       <change afterPath="$PROJECT_DIR$/../../microservices/spring-cloud-config-service/src/main/java/com/andy/micro/springcloudconfigservice/SpringCloudConfigServiceApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../microservices/spring-cloud-config-service/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../microservices/spring-cloud-config-service/src/test/java/com/andy/micro/springcloudconfigservice/SpringCloudConfigServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiServer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tickets/TicketCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tickets/TicketCreate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/tickets/TicketForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tickets/TicketForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,8 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/tickets/TicketCreate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="195">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -249,11 +222,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-305" />
-    <option name="y" value="27" />
-    <option name="width" value="1717" />
-    <option name="height" value="934" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -359,18 +331,17 @@
       <workItem from="1555070387452" duration="159000" />
       <workItem from="1555070738410" duration="690000" />
       <workItem from="1555124484594" duration="549000" />
-      <workItem from="1555160717926" duration="2283000" />
+      <workItem from="1555160717926" duration="3016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51817000" />
+    <option name="totallyTimeSpent" value="52550000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1018" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1920" height="1018" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18996799" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18996799" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -387,7 +358,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32170978" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.03374578" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.46681663" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -691,8 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/tickets/TicketCreate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        <state relative-caret-position="195">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
