@@ -40,6 +40,11 @@ class TicketForm extends React.Component {
                     label="Enter Description"
                 />
                 <Field
+                    name="ticketIdentifier"
+                    component={this.renderInput}
+                    label="TicketIdentifier"
+                />
+                <Field
                     name="date_View"
                     component={this.renderInput}
                     label="Select view date"

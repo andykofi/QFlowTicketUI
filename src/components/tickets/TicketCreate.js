@@ -2,6 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { createTicket } from '../../actions';
 import TicketForm from './TicketForm';
+//import  TicketFormNext from './TicketFormNext';
 
 class TicketCreate extends React.Component {
     onSubmit = formValues => {
